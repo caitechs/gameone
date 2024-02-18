@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[454],{19177:e=>{e.exports=JSON.parse('{"label":"edge computing platform","permalink":"/gameone/blog/tags/edge-computing-platform","allTagsPath":"/gameone/blog/tags","count":1}')}}]);

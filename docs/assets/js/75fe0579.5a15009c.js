@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[4907],{25958:e=>{e.exports=JSON.parse('{"permalink":"/gameone/blog/tags/k-8-s-edge-orchestration","page":1,"postsPerPage":5,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
