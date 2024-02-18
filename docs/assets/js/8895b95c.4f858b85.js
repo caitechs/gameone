@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[1624],{5611:e=>{e.exports=JSON.parse('{"label":"kubernetes edge computing","permalink":"/blog/tags/kubernetes-edge-computing","allTagsPath":"/blog/tags","count":1}')}}]);
