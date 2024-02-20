@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[8888],{67099:e=>{e.exports=JSON.parse('{"label":"K8s edge orchestration","permalink":"/blog/tags/k-8-s-edge-orchestration","allTagsPath":"/blog/tags","count":1}')}}]);

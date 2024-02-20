@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[9519],{17900:e=>{e.exports=JSON.parse('{"label":"kubernetes edge computing","permalink":"/gameone/blog/tags/kubernetes-edge-computing","allTagsPath":"/gameone/blog/tags","count":1}')}}]);

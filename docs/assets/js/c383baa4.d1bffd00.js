@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[6431],{27447:e=>{e.exports=JSON.parse('{"title":"\u8fb9\u7f18AI","slug":"/category/edge-ai","permalink":"/docs/category/edge-ai","navigation":{"previous":{"title":"Mapper","permalink":"/docs/concept/device/mapper"},"next":{"title":"Sedna","permalink":"/docs/concept/ai/sedna"}}}')}}]);

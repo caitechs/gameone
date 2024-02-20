@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[8224],{91579:e=>{e.exports=JSON.parse('{"label":"iot","permalink":"/gameone/blog/tags/iot","allTagsPath":"/gameone/blog/tags","count":1}')}}]);

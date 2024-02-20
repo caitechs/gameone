@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[2651],{75975:e=>{e.exports=JSON.parse('{"label":"cloud native","permalink":"/gameone/blog/tags/cloud-native","allTagsPath":"/gameone/blog/tags","count":1}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[4549],{75086:e=>{e.exports=JSON.parse('{"label":"KubeEdge","permalink":"/blog/tags/kube-edge","allTagsPath":"/blog/tags","count":1}')}}]);

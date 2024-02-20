@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[4333],{94712:e=>{e.exports=JSON.parse('{"label":"edge computing","permalink":"/blog/tags/edge-computing","allTagsPath":"/blog/tags","count":1}')}}]);
