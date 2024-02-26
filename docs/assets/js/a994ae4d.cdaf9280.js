@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[220],{9657:e=>{e.exports=JSON.parse('{"label":"Big data","permalink":"/gameone/blog/tags/big-data","allTagsPath":"/gameone/blog/tags","count":1,"unlisted":false}')}}]);

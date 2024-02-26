@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[22],{8031:e=>{e.exports=JSON.parse('{"label":"cloud computing","permalink":"/gameone/blog/tags/cloud-computing","allTagsPath":"/gameone/blog/tags","count":1,"unlisted":false}')}}]);

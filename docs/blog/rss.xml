@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>GameOne Blog</title>
-        <link>https://your-docusaurus-site.example.com/blog</link>
+        <link>https://your-docusaurus-site.example.com/gameone/blog</link>
         <description>GameOne Blog</description>
         <lastBuildDate>Wed, 17 Jan 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,32 +10,32 @@
         <language>zh</language>
         <item>
             <title><![CDATA[GameOne v1.0.0 版本发布！]]></title>
-            <link>https://your-docusaurus-site.example.com/blog/release-v1.0</link>
-            <guid>https://your-docusaurus-site.example.com/blog/release-v1.0</guid>
+            <link>https://your-docusaurus-site.example.com/gameone/blog/release-v1.0</link>
+            <guid>https://your-docusaurus-site.example.com/gameone/blog/release-v1.0</guid>
             <pubDate>Wed, 17 Jan 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[北京时间2024年1月17日，GameOne发布1.0.0版本。本版本由CAITech（云智科技）基于技能竞赛、认证考试的的研发经验，为拓宽应用场景，更多的开发志愿者参与自动判分插件的研发及功能研发，发布的本开源版本。]]></description>
             <content:encoded><![CDATA[<p>北京时间2024年1月17日，GameOne发布1.0.0版本。本版本由CAITech（云智科技）基于技能竞赛、认证考试的的研发经验，为拓宽应用场景，更多的开发志愿者参与自动判分插件的研发及功能研发，发布的本开源版本。
 开源协议遵循Apache 2.0.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="gameone-v100-特性">GameOne v1.0.0 特性：<a href="https://your-docusaurus-site.example.com/blog/release-v1.0#gameone-v100-%E7%89%B9%E6%80%A7" class="hash-link" aria-label="GameOne v1.0.0 特性：的直接链接" title="GameOne v1.0.0 特性：的直接链接">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="gameone-v100-特性">GameOne v1.0.0 特性：<a href="https://your-docusaurus-site.example.com/gameone/blog/release-v1.0#gameone-v100-%E7%89%B9%E6%80%A7" class="hash-link" aria-label="GameOne v1.0.0 特性：的直接链接" title="GameOne v1.0.0 特性：的直接链接">​</a></h2>
 <ul>
-<li><a href="https://your-docusaurus-site.example.com/blog/release-v1.0#%E5%89%8D%E5%90%8E%E7%AB%AF%E5%88%86%E7%A6%BB">1.架构前后端分离</a></li>
-<li><a href="https://your-docusaurus-site.example.com/blog/release-v1.0#%E8%87%AA%E5%8A%A8%E5%88%A4%E5%88%86%E6%94%AF%E6%8C%81">2.自动判分支持</a></li>
-<li><a href="https://your-docusaurus-site.example.com/blog/release-v1.0#%E5%A4%9A%E8%A7%92%E8%89%B2%E6%94%AF%E6%8C%81">3.多角色支持</a></li>
-<li><a href="https://your-docusaurus-site.example.com/blog/release-v1.0#%E8%AF%95%E9%A2%98%E6%A0%BC%E5%BC%8F">4.试题格式</a></li>
+<li><a href="https://your-docusaurus-site.example.com/gameone/blog/release-v1.0#%E5%89%8D%E5%90%8E%E7%AB%AF%E5%88%86%E7%A6%BB">1.架构前后端分离</a></li>
+<li><a href="https://your-docusaurus-site.example.com/gameone/blog/release-v1.0#%E8%87%AA%E5%8A%A8%E5%88%A4%E5%88%86%E6%94%AF%E6%8C%81">2.自动判分支持</a></li>
+<li><a href="https://your-docusaurus-site.example.com/gameone/blog/release-v1.0#%E5%A4%9A%E8%A7%92%E8%89%B2%E6%94%AF%E6%8C%81">3.多角色支持</a></li>
+<li><a href="https://your-docusaurus-site.example.com/gameone/blog/release-v1.0#%E8%AF%95%E9%A2%98%E6%A0%BC%E5%BC%8F">4.试题格式</a></li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="概览说明">概览说明<a href="https://your-docusaurus-site.example.com/blog/release-v1.0#%E6%A6%82%E8%A7%88%E8%AF%B4%E6%98%8E" class="hash-link" aria-label="概览说明的直接链接" title="概览说明的直接链接">​</a></h2>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="前后端分离">前后端分离<a href="https://your-docusaurus-site.example.com/blog/release-v1.0#%E5%89%8D%E5%90%8E%E7%AB%AF%E5%88%86%E7%A6%BB" class="hash-link" aria-label="前后端分离的直接链接" title="前后端分离的直接链接">​</a></h3>
-<h4 class="anchor anchorWithStickyNavbar_LWe7" id="架构图">架构图<a href="https://your-docusaurus-site.example.com/blog/release-v1.0#%E6%9E%B6%E6%9E%84%E5%9B%BE" class="hash-link" aria-label="架构图的直接链接" title="架构图的直接链接">​</a></h4>
-<h4 class="anchor anchorWithStickyNavbar_LWe7" id="前端采用vuejs">前端采用Vue.js<a href="https://your-docusaurus-site.example.com/blog/release-v1.0#%E5%89%8D%E7%AB%AF%E9%87%87%E7%94%A8vuejs" class="hash-link" aria-label="前端采用Vue.js的直接链接" title="前端采用Vue.js的直接链接">​</a></h4>
-<h4 class="anchor anchorWithStickyNavbar_LWe7" id="后端采用java-spring-boot">后端采用Java Spring Boot<a href="https://your-docusaurus-site.example.com/blog/release-v1.0#%E5%90%8E%E7%AB%AF%E9%87%87%E7%94%A8java-spring-boot" class="hash-link" aria-label="后端采用Java Spring Boot的直接链接" title="后端采用Java Spring Boot的直接链接">​</a></h4>
-<h4 class="anchor anchorWithStickyNavbar_LWe7" id="数据库采用-mariadb">数据库采用 MariaDB<a href="https://your-docusaurus-site.example.com/blog/release-v1.0#%E6%95%B0%E6%8D%AE%E5%BA%93%E9%87%87%E7%94%A8-mariadb" class="hash-link" aria-label="数据库采用 MariaDB的直接链接" title="数据库采用 MariaDB的直接链接">​</a></h4>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="自动判分支持">自动判分支持<a href="https://your-docusaurus-site.example.com/blog/release-v1.0#%E8%87%AA%E5%8A%A8%E5%88%A4%E5%88%86%E6%94%AF%E6%8C%81" class="hash-link" aria-label="自动判分支持的直接链接" title="自动判分支持的直接链接">​</a></h3>
-<h4 class="anchor anchorWithStickyNavbar_LWe7" id="实操题">实操题<a href="https://your-docusaurus-site.example.com/blog/release-v1.0#%E5%AE%9E%E6%93%8D%E9%A2%98" class="hash-link" aria-label="实操题的直接链接" title="实操题的直接链接">​</a></h4>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="概览说明">概览说明<a href="https://your-docusaurus-site.example.com/gameone/blog/release-v1.0#%E6%A6%82%E8%A7%88%E8%AF%B4%E6%98%8E" class="hash-link" aria-label="概览说明的直接链接" title="概览说明的直接链接">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="前后端分离">前后端分离<a href="https://your-docusaurus-site.example.com/gameone/blog/release-v1.0#%E5%89%8D%E5%90%8E%E7%AB%AF%E5%88%86%E7%A6%BB" class="hash-link" aria-label="前后端分离的直接链接" title="前后端分离的直接链接">​</a></h3>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="架构图">架构图<a href="https://your-docusaurus-site.example.com/gameone/blog/release-v1.0#%E6%9E%B6%E6%9E%84%E5%9B%BE" class="hash-link" aria-label="架构图的直接链接" title="架构图的直接链接">​</a></h4>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="前端采用vuejs">前端采用Vue.js<a href="https://your-docusaurus-site.example.com/gameone/blog/release-v1.0#%E5%89%8D%E7%AB%AF%E9%87%87%E7%94%A8vuejs" class="hash-link" aria-label="前端采用Vue.js的直接链接" title="前端采用Vue.js的直接链接">​</a></h4>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="后端采用java-spring-boot">后端采用Java Spring Boot<a href="https://your-docusaurus-site.example.com/gameone/blog/release-v1.0#%E5%90%8E%E7%AB%AF%E9%87%87%E7%94%A8java-spring-boot" class="hash-link" aria-label="后端采用Java Spring Boot的直接链接" title="后端采用Java Spring Boot的直接链接">​</a></h4>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="数据库采用-mariadb">数据库采用 MariaDB<a href="https://your-docusaurus-site.example.com/gameone/blog/release-v1.0#%E6%95%B0%E6%8D%AE%E5%BA%93%E9%87%87%E7%94%A8-mariadb" class="hash-link" aria-label="数据库采用 MariaDB的直接链接" title="数据库采用 MariaDB的直接链接">​</a></h4>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="自动判分支持">自动判分支持<a href="https://your-docusaurus-site.example.com/gameone/blog/release-v1.0#%E8%87%AA%E5%8A%A8%E5%88%A4%E5%88%86%E6%94%AF%E6%8C%81" class="hash-link" aria-label="自动判分支持的直接链接" title="自动判分支持的直接链接">​</a></h3>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="实操题">实操题<a href="https://your-docusaurus-site.example.com/gameone/blog/release-v1.0#%E5%AE%9E%E6%93%8D%E9%A2%98" class="hash-link" aria-label="实操题的直接链接" title="实操题的直接链接">​</a></h4>
 <ul>
 <li>支持远程SSH执行</li>
 <li>理论题支持单选、多选、判断题目</li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="多角色支持">多角色支持<a href="https://your-docusaurus-site.example.com/blog/release-v1.0#%E5%A4%9A%E8%A7%92%E8%89%B2%E6%94%AF%E6%8C%81" class="hash-link" aria-label="多角色支持的直接链接" title="多角色支持的直接链接">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="多角色支持">多角色支持<a href="https://your-docusaurus-site.example.com/gameone/blog/release-v1.0#%E5%A4%9A%E8%A7%92%E8%89%B2%E6%94%AF%E6%8C%81" class="hash-link" aria-label="多角色支持的直接链接" title="多角色支持的直接链接">​</a></h3>
 <p>系统根据IT专业的竞赛、认证、考试的特点划分一下角色</p>
 <ul>
 <li>选手：即学生、选手、考生,参与竞赛、认证与考试；</li>
@@ -43,7 +43,7 @@
 <li>组织者：竞赛裁判、专业老师、考证员，组织考试，包括定义竞赛、考试、考证 ；</li>
 <li>判分者：对竞赛的自动判分成绩进行复核，审定。</li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="试题格式">试题格式<a href="https://your-docusaurus-site.example.com/blog/release-v1.0#%E8%AF%95%E9%A2%98%E6%A0%BC%E5%BC%8F" class="hash-link" aria-label="试题格式的直接链接" title="试题格式的直接链接">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="试题格式">试题格式<a href="https://your-docusaurus-site.example.com/gameone/blog/release-v1.0#%E8%AF%95%E9%A2%98%E6%A0%BC%E5%BC%8F" class="hash-link" aria-label="试题格式的直接链接" title="试题格式的直接链接">​</a></h3>
 <p>编写试题采用Doc、Docx格式，方便命题人员编写和组合试题。按照中文习惯编写：</p>
 <ul>
 <li>试题标签采用中文中括号作为【】标签标识。结构为标签【】、题干文字与分值；</li>

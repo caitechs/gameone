@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[727],{507:e=>{e.exports=JSON.parse('{"label":"release v1.0","permalink":"/gameone/blog/tags/release-v-1-0","allTagsPath":"/gameone/blog/tags","count":1,"unlisted":false}')}}]);
