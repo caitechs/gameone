@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[3812],{4889:e=>{e.exports=JSON.parse('{"label":"AI","permalink":"/gameone/blog/tags/ai","allTagsPath":"/gameone/blog/tags","count":1}')}}]);
